@@ -10,6 +10,12 @@ How can a business identify its most valuable customers, recognise early signs o
 
 ---
 
+## Dashboard Preview
+
+<img width="1490" height="686" alt="image" src="https://github.com/user-attachments/assets/c226e1ea-0527-4e54-9723-7c1551857d4a" />
+
+---
+
 ## Project Overview
 Using RFM (Recency, Frequency, Monetary) analysis, segmented customers based on their purchasing behaviour and develop targeted loyalty and retention strategies.
 
@@ -61,12 +67,6 @@ Each dimension was assigned a score from 1 to 5 using customer quintiles. Recenc
 - Re-Engage customers form 41% of the customer base but contribute only 18% of revenue.
 - 40 customers are classified as dormant based on their Recency Score.
 - 39 customers fall under the Win-Back opportunity category, while 6 Elite customers are classified as Elite At Risk.
-
----
-
-## Dashboard Preview
-
-<img width="1490" height="686" alt="image" src="https://github.com/user-attachments/assets/c226e1ea-0527-4e54-9723-7c1551857d4a" />
 
 ---
 
